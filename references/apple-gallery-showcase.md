@@ -336,3 +336,7 @@ requestAnimationFrame(function tick(now) {
 - 参考审美：Apple 产品页、Dribbble shot 集合页
 
 遇到「多件高质量产出要陈列」的动画需求，直接从此文件 copy 骨架，换内容 + 调 timing 即可。
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

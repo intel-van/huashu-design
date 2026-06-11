@@ -504,3 +504,7 @@ stage.style.transform = `
 - 3 支参考视频：`ref-{1,2,3}.mp4` + 对应 `gemini-ref-*.md` / `audio-ref-*.md`
 - **严格过滤**：本 reference 不收录任何具体品牌色值、字体名、产品名。
   色彩/字体决策走 §1.a 核心资产协议或 20 种设计哲学。
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

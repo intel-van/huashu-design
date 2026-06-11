@@ -589,3 +589,7 @@ typography. The data tells a story of dramatic channel shift.
 **更新日期**：2026-02-13
 **适用场景**：网页/PPT/PDF/信息图/封面/配图/App等所有视觉设计
 **与 image-to-slides 联动**：PPT场景可直接引用本文件风格，通过 image-to-slides skill 执行生成
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

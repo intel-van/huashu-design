@@ -395,3 +395,7 @@ DOUBAO_TTS_ENDPOINT=https://openspeech.bytedance.com/api/v1/tts
 ---
 
 **最后一次提醒**：写代码前回到铁律。**别做带配音的 PowerPoint**。
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

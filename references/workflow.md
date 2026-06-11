@@ -214,3 +214,7 @@ HTML文件头部先写你的**assumptions+reasoning comments**，像junior给man
 - 夸自己设计多好
 
 Caveats + next steps，结束。
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

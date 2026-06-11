@@ -332,3 +332,7 @@ const html2pptx = require('../scripts/html2pptx.js');  // 本 skill 脚本
 - PPTX 的 picture 对象必须引用真实图片文件，不是 CSS 属性
 
 理解这点后，**不要期待工具变聪明** —— 是 HTML 写法要适配 PPTX 格式，不是反过来。
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

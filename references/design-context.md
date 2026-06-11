@@ -211,3 +211,7 @@ Focus在：
 花10分钟收集context，比花1小时凭空画hi-fi更有价值。
 
 **遇到没context的情况，优先问用户要，而不是硬上**。
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

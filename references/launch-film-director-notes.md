@@ -291,3 +291,7 @@ v5f · 草间彌生 Yayoi Kusama（圆点 + 重复 + 单一强色）
 
 *最后修订：2026-05-11*
 *真实案例：huashu-md-html v2.0 launch film（v5-director-notes.md）*
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

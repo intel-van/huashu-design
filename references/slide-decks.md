@@ -724,3 +724,7 @@ node scripts/export_deck_pptx.mjs --slides <dir> --out deck.pptx
 4. [ ] 随机选 3 页 Cmd+Shift+R 强刷，localStorage 记忆正常工作
 5. [ ] Playwright 批量截图（单页架构：遍历 `slides/*.html`；单文件架构：用 goTo 切换），人工肉眼过一遍
 6. [ ] 搜一下 `TODO` / `placeholder` 残留，确认都清理了
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

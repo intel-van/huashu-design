@@ -274,3 +274,7 @@ HTML里按顺序加载：
 ```
 
 **每个文件末尾**都要`Object.assign(window, {...})`导出要共享的东西。
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

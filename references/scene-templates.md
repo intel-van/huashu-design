@@ -260,3 +260,7 @@ in software development, warm and professional atmosphere
 
 **版本**：v1.0
 **更新日期**：2026-02-13
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

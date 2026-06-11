@@ -378,3 +378,7 @@ bash convert-formats.sh input.mp4 --minterpolate
 - [ ] 涉及具体品牌（Stripe/Anthropic/Lovart/...）：走完了「品牌资产协议」（SKILL.md §1.a 五步）？有没有写 `brand-spec.md`？
 - [ ] 单文件交付的 HTML：`animations.jsx` 是内联的，不是 `src="..."`？（file:// 下 external .jsx 会 CORS 黑屏）
 - [ ] 跨 scene 出现的元素（chapter 标签/水印/scene 编号）没有硬编码颜色？在每个 scene 底色下都可见？
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

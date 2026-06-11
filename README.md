@@ -242,6 +242,7 @@ huashu-design/
 ├── SKILL.md                 # Main doc (read by agent, Chinese)
 ├── README.md                # English README (default, this file)
 ├── README.zh.md             # Chinese README
+├── _config.yml              # GitHub Pages config
 ├── assets/                  # Starter Components
 │   ├── animations.jsx       # Stage + Sprite + Easing + interpolate
 │   ├── ios_frame.jsx        # iPhone 15 Pro bezel
@@ -251,16 +252,34 @@ huashu-design/
 │   ├── deck_stage.js        # HTML deck engine
 │   ├── deck_index.html      # Multi-file deck assembler
 │   ├── design_canvas.jsx    # Side-by-side variation display
+│   ├── narration_stage.jsx  # Voiceover-driven animation stage
 │   ├── showcases/           # 24 prebuilt samples (8 scenes × 3 styles)
+│   ├── sfx/                 # 37预制音效资源
 │   └── bgm-*.mp3            # 6 scene-specific background tracks
 ├── references/              # Drill-down docs by task (Chinese)
-│   ├── animation-pitfalls.md
+│   ├── workflow.md          # Workflow: from task to delivery
 │   ├── design-styles.md     # 20 design philosophies in detail
-│   ├── slide-decks.md
-│   ├── editable-pptx.md
-│   ├── critique-guide.md
-│   ├── video-export.md
-│   └── ...
+│   ├── design-context.md    # Design context fallback strategy
+│   ├── content-guidelines.md # Anti-AI-slop rules
+│   ├── animation-pitfalls.md # Animation pitfalls & rules
+│   ├── animations.md        # Animation API reference
+│   ├── animation-best-practices.md # Narrative motion design
+│   ├── slide-decks.md       # HTML slide制作规范
+│   ├── editable-pptx.md     # HTML→editable PPTX constraints
+│   ├── critique-guide.md    # 5-dimension design review
+│   ├── video-export.md      # HTML→MP4/GIF export
+│   ├── audio-design-rules.md # SFX+BGM双轨制规则
+│   ├── sfx-library.md       # 37预制音效索引
+│   ├── voiceover-pipeline.md # 长概念视频解说驱动流程
+│   ├── launch-film-director-notes.md # Launch film工作流
+│   ├── multi-perspective-parallel-case-study.md # 多视角并行实验
+│   ├── cinematic-patterns.md # Gallery Ripple + Multi-Focus patterns
+│   ├── hero-animation-case-study.md # Hero animation实战案例
+│   ├── apple-gallery-showcase.md # Apple画廊展示风格
+│   ├── react-setup.md       # React+Babel项目setup
+│   ├── tweaks-system.md     # Tweaks实时调参
+│   ├── scene-templates.md   # 按输出类型查场景模板
+│   └── verification.md      # 输出验证流程
 ├── scripts/                 # Export toolchain
 │   ├── render-video.js      # HTML → MP4
 │   ├── convert-formats.sh   # MP4 → 60fps + GIF
@@ -269,8 +288,40 @@ huashu-design/
 │   ├── export_deck_pptx.mjs
 │   ├── html2pptx.js
 │   └── verify.py
-└── demos/                   # Capability demos referenced by this README
+└── demos/                   # 9 capability demos (c*/w*), bilingual GIF/MP4/HTML
 ```
+
+---
+
+## Deep Reading
+
+Detailed documentation for each capability — all in Chinese (the skill's native language):
+
+| Topic | File |
+|-------|------|
+| Workflow: from task to delivery | [references/workflow.md](references/workflow.md) |
+| 20 design philosophies | [references/design-styles.md](references/design-styles.md) |
+| Design context fallback | [references/design-context.md](references/design-context.md) |
+| Anti-AI-slop rules | [references/content-guidelines.md](references/content-guidelines.md) |
+| Animation pitfalls & rules | [references/animation-pitfalls.md](references/animation-pitfalls.md) |
+| Animation API reference | [references/animations.md](references/animations.md) |
+| Narrative motion design | [references/animation-best-practices.md](references/animation-best-practices.md) |
+| HTML slide production | [references/slide-decks.md](references/slide-decks.md) |
+| Editable PPTX constraints | [references/editable-pptx.md](references/editable-pptx.md) |
+| 5-dimension design review | [references/critique-guide.md](references/critique-guide.md) |
+| Video export (MP4/GIF) | [references/video-export.md](references/video-export.md) |
+| SFX + BGM audio rules | [references/audio-design-rules.md](references/audio-design-rules.md) |
+| 37 built-in sound effects | [references/sfx-library.md](references/sfx-library.md) |
+| Voiceover-driven pipeline | [references/voiceover-pipeline.md](references/voiceover-pipeline.md) |
+| Launch film director's notes | [references/launch-film-director-notes.md](references/launch-film-director-notes.md) |
+| Multi-perspective parallel | [references/multi-perspective-parallel-case-study.md](references/multi-perspective-parallel-case-study.md) |
+| Gallery Ripple patterns | [references/cinematic-patterns.md](references/cinematic-patterns.md) |
+| Hero animation case study | [references/hero-animation-case-study.md](references/hero-animation-case-study.md) |
+| Apple gallery showcase style | [references/apple-gallery-showcase.md](references/apple-gallery-showcase.md) |
+| React + Babel setup | [references/react-setup.md](references/react-setup.md) |
+| Tweaks live variation | [references/tweaks-system.md](references/tweaks-system.md) |
+| Scene templates | [references/scene-templates.md](references/scene-templates.md) |
+| Output verification | [references/verification.md](references/verification.md) |
 
 ---
 

@@ -311,3 +311,7 @@ const update = (patch) => {
   localStorage.setItem(...);
 };
 ```
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)

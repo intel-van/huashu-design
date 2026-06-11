@@ -1,0 +1,24 @@
+# GitHub Pages 配置
+title: Huashu Design
+description: 一句话让 agent 在 3–30 分钟内交付产品发布动画、可点击 App 原型、可编辑 PPT、印刷级信息图
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - README.zh.md
+  - SKILL.md
+  - references/
+  - assets/
+  - scripts/
+  - demos/
+exclude:
+  - node_modules/
+  - .git/
+  - .gitignore
+  - LICENSE
+  - .env.example
+  - test-prompts.json

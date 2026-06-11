@@ -265,3 +265,7 @@ subagent 完成需要 12-15 分钟。这段时间主线程绝不该空闲：
 
 *Last updated: 2026-05-11*
 *Real case study: huashu-md-html v2.0 launch film 6-perspective parallel experiment*
+
+---
+
+[← 返回主 README](../README.md) · [📋 深度阅读](../README.zh.md#深度阅读)
